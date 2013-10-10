@@ -9,7 +9,7 @@
 ### Linux
 
 If using Linux, you need a kernel with epoll.  Sure, libevent will
-work with normal select, but it sucks.
+work  with normal select, but it sucks.
 
 epoll isn't in Linux 2.4, but there's a backport at:
 
